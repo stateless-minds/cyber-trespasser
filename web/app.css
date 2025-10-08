@@ -1,0 +1,21 @@
+#map {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.popup {
+    width: 350px;
+}
+
+.intro-tooltip {
+  border-radius: 20px;
+}
+
+.tooltip-content {
+  padding-left: 20px;
+}
+
+.tooltip-content h2 {
+  padding-left: 25px;
+}
